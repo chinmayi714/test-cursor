@@ -17,12 +17,12 @@ const users = [
   {
     id: 1,
     email: 'user@example.com',
-    password: '$2a$10$8K1p/a0dUzsAC66bdApUOOxhs.6KwD5kqP4nZceMx0.dUjKuGYvLK' // password: 'password123'
+    password: '$2a$10$2PlSaxilGwutAP1K7SD2heCdhyllOMY7l7Ywg7LRRO6GuM3Qvd2Q.' // password: 'password123'
   },
   {
     id: 2,
     email: 'admin@example.com',
-    password: '$2a$10$8K1p/a0dUzsAC66bdApUOOxhs.6KwD5kqP4nZceMx0.dUjKuGYvLK' // password: 'password123'
+    password: '$2a$10$2PlSaxilGwutAP1K7SD2heCdhyllOMY7l7Ywg7LRRO6GuM3Qvd2Q.' // password: 'password123'
   }
 ];
 
